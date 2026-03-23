@@ -1,32 +1,37 @@
-### Hey 👋, I'm Ana. Functional Data Consultant | Agile | SQL | Metadata | Data Governance | Databricks | Snowflake.
-</a>
-<a href="https://www.linkedin.com/in/ana-campos-cordobes/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-<br />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-Hi there, I'm **Ana Campos**, a **Data Analyst**  🚀 .
+# 👋 Hola, soy Ana Campos
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+Soy **Consultora Funcional y Analista de Datos**, apasionada por los datos y cómo pueden ayudar a tomar mejores decisiones.  
+Trabajo en **Gobernanza de Datos, QA funcional y análisis de datos**, siempre con un enfoque práctico y colaborativo.
 
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏽‍💻 I'm currently with my personal projects;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via ana.campos.cordobes@gmail.com to reach me.
-- 📝 See my [LinkedIn](https://www.linkedin.com/in/ana-campos-cordobes/) to get more info.
+## 🌟 Proyecto destacado
 
+**metadata-data-quality-demo** 
 
-**Languages and Tools:**  
+– Simulación de un proyecto de Gobernanza de Datos con validaciones SQL y diccionario de metadatos.  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+[Ver proyecto](https://github.com/Anadalab/metadata-data-quality-demo)
 
+---
 
+## 💻 Lenguajes y Herramientas
 
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
 
+---
 
-⭐️ From [Ana](https://github.com/Anadalab)
+## 📊 Estadísticas y Badges
+
+![Seguidores en GitHub](https://img.shields.io/github/followers/Anadalab?label=Seguidores&style=social)
+
+---
+
+⭐️ Creado por [Ana](https://github.com/Anadalab)
